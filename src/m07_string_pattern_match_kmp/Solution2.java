@@ -30,7 +30,6 @@ public class Solution2 {
 				
 			} else if (prefixLen > 0) {
 				prefixLen = ar[prefixLen]; // note  that we do not increment i here
-				//prefixLen = 0;
 			} else {
 				i++;
 				ar[i] = 0; // 'prefixLen' reached 0, so save that into ar[] and move forward
