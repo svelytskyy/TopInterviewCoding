@@ -68,6 +68,5 @@ module Top100InterviewCoding {
 	exports problem26_binary_tree_max_depth;
 	exports problem38_balanced_binary_tree;
 	exports problem36_kth_largest_in_bst;
-
 	requires junit;
 }
